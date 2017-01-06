@@ -1,2 +1,2 @@
 # Leetcode  
-My solution to [Leetcode](https://leetcode.com/problemset/algorithms/) algorithm problem.
+My solutions to [Leetcode](https://leetcode.com/problemset/algorithms/) algorithm problems.  
